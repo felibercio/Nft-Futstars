@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Mr+Dafoe&display=swap');
+
+.font-signature {
+  font-family: 'Mr Dafoe', cursive;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+} 
