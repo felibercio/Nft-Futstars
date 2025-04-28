@@ -1,6 +1,6 @@
 # NFT FutStar
 
-Plataforma de NFTs para colecionáveis de futebol, permitindo mint, compra/venda e jogos com os NFTs.
+Plataforma de NFTs para colecionáveis de futebol, permitindo mint ao vivo, compra/venda, jogos interativo com os NFTs e clubverse com imersão e interação pelo estádio, O torcedor explora o estádio 3D virtual e encontra “drops secretos” escondidos como um Caça ao NFT no ClubVerse (Exploração 3D)
 
 ## Tecnologias
 
